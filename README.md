@@ -37,12 +37,12 @@
 + 打开MySQL Workbench，登录并连接到数据库
 + 在MySQL Workbench中输入以下代码:
 
-'''
+```
 use museumapplication;
 select * from museum;
 select * from exhibition;
 select * from collection;
-'''
+```
 
 ***
 
